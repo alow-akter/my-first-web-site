@@ -5,6 +5,7 @@ body {
 
 h1 {
     font-size: 50px;
+
 }
 
 .hio {
@@ -21,6 +22,7 @@ img {
 
 section {
     display: flex;
+    margin-bottom: 20px;
 }
 
 .half-width {
@@ -48,4 +50,20 @@ section {
     background-image: url(./images/shapes/Frame\ 58.jpg);
     padding: 2%;
     border-radius: 10px;
+}
+
+.big {
+    text-decoration: none;
+    background-image:
+        linear-gradient(rgb(32, 228, 32), red);
+    font-size: 30px;
+}
+
+#all {
+    background-image: url(./images/shapes/7.png);
+    padding: 2%;
+    border-radius: 30px;
+}
+
+
 }
